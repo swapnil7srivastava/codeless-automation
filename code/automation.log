@@ -1,0 +1,2612 @@
+2024-11-04 19:28:27,329 - INFO - Added step: Locate and Click(626, 396)
+2024-11-04 19:28:39,582 - INFO - Added step: Wait For Seconds(110, 160)
+2024-11-04 19:37:44,469 - INFO - Added step: Locate and Click(1358, 898)
+2024-11-04 19:37:58,768 - INFO - Added step: Locate and RightClick(1507, 981)
+2024-11-04 19:44:07,168 - INFO - Starting application
+2024-11-04 19:44:07,304 - INFO - Initializing CodelessAutomationApp
+2024-11-04 19:44:07,304 - INFO - Window title set
+2024-11-04 19:44:07,304 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image']
+2024-11-04 19:44:07,304 - INFO - Creating widgets
+2024-11-04 19:44:07,304 - INFO - Operation variable set to default
+2024-11-04 19:44:07,306 - INFO - Label for operation selection created
+2024-11-04 19:44:07,307 - INFO - Operation dropdown created
+2024-11-04 19:44:07,307 - INFO - Snap Location button created
+2024-11-04 19:44:07,307 - INFO - Coordinates entry created
+2024-11-04 19:44:07,307 - INFO - Text entry created
+2024-11-04 19:44:07,308 - INFO - Add New Step button created
+2024-11-04 19:44:07,309 - INFO - Step list created
+2024-11-04 19:44:07,309 - INFO - Save button created
+2024-11-04 19:44:07,309 - INFO - Save and Run button created
+2024-11-04 19:44:09,164 - INFO - Starting to capture coordinates
+2024-11-04 19:44:09,312 - INFO - Pygame initialized
+2024-11-04 19:44:09,336 - INFO - Overlay window created
+2024-11-04 19:44:09,337 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,339 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,340 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,341 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,343 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,344 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,345 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,346 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,347 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,352 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,386 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,387 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,388 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,404 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,412 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,421 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,430 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,438 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,446 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,455 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,463 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,471 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,479 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,497 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,505 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,513 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,530 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,546 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,554 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,563 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,572 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,580 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,588 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,600 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,605 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,613 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,622 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,631 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,639 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,647 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,655 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,664 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,672 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,680 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,688 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,698 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,705 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,713 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,721 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,730 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,738 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,746 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,755 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,765 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,772 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,779 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,788 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,797 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,805 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,813 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,830 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,838 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,847 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,855 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,864 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,872 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,880 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,888 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,897 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,905 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,913 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,921 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,930 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,938 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,947 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,955 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,964 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,972 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,980 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,988 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:09,997 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,005 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,030 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,038 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,056 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,063 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,072 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,079 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,088 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,097 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,105 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,113 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,122 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,130 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,138 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,146 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,156 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,164 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,171 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,179 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,189 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,197 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,205 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,213 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,222 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,230 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,238 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,246 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,254 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,263 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,272 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,280 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,288 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,297 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,305 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,313 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,321 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,330 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,338 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,346 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,354 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,364 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,372 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,379 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,388 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,398 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,405 - INFO - Mouse clicked at coordinates: (811, 269)
+2024-11-04 19:44:10,406 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:10,518 - INFO - Pygame quit
+2024-11-04 19:44:12,708 - INFO - Starting to capture coordinates
+2024-11-04 19:44:12,766 - INFO - Pygame initialized
+2024-11-04 19:44:12,798 - INFO - Overlay window created
+2024-11-04 19:44:12,799 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,802 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,804 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,805 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,807 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,809 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,816 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,818 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,819 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,822 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,823 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,825 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,826 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,828 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,830 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,832 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,833 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,835 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,836 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,837 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,839 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,846 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,854 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,863 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,871 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,879 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,888 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,896 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,904 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,913 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,921 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,930 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,938 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,946 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,954 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,963 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,971 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,980 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,988 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:12,998 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,005 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,030 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,038 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,054 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,064 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,072 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,080 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,088 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,097 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,105 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,113 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,122 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,131 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,138 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,146 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,155 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,163 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,171 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,179 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,188 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,196 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,206 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,213 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,221 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,231 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,238 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,246 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,254 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,263 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,271 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,279 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,289 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,298 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,305 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,313 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,321 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,330 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,338 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,346 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,355 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,363 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,372 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,380 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,388 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,397 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,405 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,414 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,421 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,430 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,438 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,446 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,455 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,463 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,472 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,480 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,497 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,505 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,513 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,531 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,546 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,554 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,563 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,573 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,580 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,588 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,597 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,605 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,613 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,621 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,630 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,638 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,646 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,655 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,663 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,671 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,679 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,689 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,696 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,705 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,713 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,721 - INFO - Mouse clicked at coordinates: (1084, 668)
+2024-11-04 19:44:13,722 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:13,834 - INFO - Pygame quit
+2024-11-04 19:44:15,254 - INFO - Starting to capture coordinates
+2024-11-04 19:44:15,309 - INFO - Pygame initialized
+2024-11-04 19:44:15,337 - INFO - Overlay window created
+2024-11-04 19:44:15,338 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,340 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,343 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,346 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,348 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,350 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,352 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,354 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,357 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,379 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,387 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,396 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,404 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,413 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,421 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,431 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,439 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,446 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,454 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,463 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,471 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,479 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,497 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,505 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,514 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,530 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,547 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,555 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,563 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,573 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,580 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,588 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,597 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,605 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,613 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,622 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,630 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,638 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,646 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,656 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,664 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,672 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,680 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,688 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,697 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,705 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,713 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,721 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,730 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,738 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,746 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,754 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,763 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,771 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,779 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,788 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,797 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,805 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,813 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,831 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,838 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,846 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,854 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,863 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,872 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,881 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,888 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,896 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,906 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,913 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,921 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,930 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,939 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,946 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,955 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,963 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,972 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,980 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,988 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:15,996 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,005 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,030 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,038 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,055 - INFO - Mouse clicked at coordinates: (891, 610)
+2024-11-04 19:44:16,055 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:16,163 - INFO - Pygame quit
+2024-11-04 19:44:18,165 - INFO - Adding new step
+2024-11-04 19:44:18,166 - INFO - Added step: Locate and Click(891, 610)
+2024-11-04 19:44:18,166 - INFO - Executing operation: Locate and Click
+2024-11-04 19:44:20,216 - INFO - Starting to capture coordinates
+2024-11-04 19:44:20,271 - INFO - Pygame initialized
+2024-11-04 19:44:20,298 - INFO - Overlay window created
+2024-11-04 19:44:20,298 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,301 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,303 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,305 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,307 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,309 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,318 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,320 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,322 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,323 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,325 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,327 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,329 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,330 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,331 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,333 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,334 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,336 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,337 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,338 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,340 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,341 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,342 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,344 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,345 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,347 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,349 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,354 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,362 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,371 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,379 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,387 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,396 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,404 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,412 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,421 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,430 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,438 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,447 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,455 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,463 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,471 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,480 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,496 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,505 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,513 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,522 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,529 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,547 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,554 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,563 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,571 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,580 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,588 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,596 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,605 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,613 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,621 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,629 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,638 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,646 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,655 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,663 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,671 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,679 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,688 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,696 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,704 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,714 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,721 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,730 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,738 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,746 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,756 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,764 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,771 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,780 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,788 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,796 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,805 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,813 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,829 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,838 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,847 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,855 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,863 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,871 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,879 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,889 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,896 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,904 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,913 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,922 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,930 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,938 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,946 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,954 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,963 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,972 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,980 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,988 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:20,997 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,005 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,030 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,038 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,054 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,063 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,071 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,081 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,088 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,096 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,105 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,113 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,121 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,129 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,139 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,146 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,154 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,163 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,171 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,179 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,188 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,197 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,204 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,213 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,221 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,230 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,239 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,253 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,255 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,257 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,264 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,271 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,279 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,288 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,296 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,305 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,313 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,321 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,330 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,338 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,346 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,354 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,363 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,371 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,379 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,389 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,397 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,405 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,413 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,422 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,430 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,438 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,446 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,454 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,464 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,472 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,479 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,496 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,506 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,513 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,531 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,546 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,554 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,563 - INFO - Mouse clicked at coordinates: (971, 107)
+2024-11-04 19:44:21,564 - INFO - Overlay drawn with transparency
+2024-11-04 19:44:21,679 - INFO - Pygame quit
+2024-11-04 19:44:22,912 - INFO - Adding new step
+2024-11-04 19:44:22,913 - INFO - Added step: Locate and Click(971, 107)
+2024-11-04 19:44:22,913 - INFO - Executing operation: Locate and Click
+2024-11-04 19:44:27,344 - INFO - Adding new step
+2024-11-04 19:44:27,345 - INFO - Added step: Locate and RightClick(971, 107)
+2024-11-04 19:44:27,345 - INFO - Executing operation: Locate and RightClick
+2024-11-04 19:44:31,510 - INFO - Saving flow
+2024-11-04 19:46:46,014 - INFO - Starting application
+2024-11-04 19:46:46,125 - INFO - Initializing CodelessAutomationApp
+2024-11-04 19:46:46,125 - INFO - Window title set
+2024-11-04 19:46:46,125 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image']
+2024-11-04 19:46:46,125 - INFO - Creating widgets
+2024-11-04 19:46:46,125 - INFO - Operation variable set to default
+2024-11-04 19:46:46,128 - INFO - Label for operation selection created
+2024-11-04 19:46:46,128 - INFO - Operation dropdown created
+2024-11-04 19:46:46,128 - INFO - Snap Location button created
+2024-11-04 19:46:46,129 - INFO - Coordinates entry created
+2024-11-04 19:46:46,129 - INFO - Text entry created
+2024-11-04 19:46:46,129 - INFO - Add New Step button created
+2024-11-04 19:46:46,130 - INFO - Step list created
+2024-11-04 19:46:46,130 - INFO - Save button created
+2024-11-04 19:46:46,131 - INFO - Save and Run button created
+2024-11-04 19:46:47,723 - INFO - Starting to capture coordinates
+2024-11-04 19:46:47,901 - INFO - Pygame initialized
+2024-11-04 19:46:47,928 - INFO - Overlay window created
+2024-11-04 19:46:47,929 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,931 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,944 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,946 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,947 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,948 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,950 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,977 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,979 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,984 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:47,997 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,005 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,029 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,039 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,054 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,063 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,071 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,080 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,087 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,097 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,105 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,113 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,122 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,130 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,138 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,146 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,154 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,163 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,172 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,179 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,187 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,197 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,204 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,212 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,221 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,234 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,238 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,246 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,254 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,263 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,271 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,279 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,289 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,296 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,305 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,313 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,321 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,331 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,338 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,346 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,354 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,364 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,371 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,379 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,387 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,396 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,405 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,413 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,422 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,430 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,438 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,446 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,454 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,463 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,472 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,479 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,497 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,504 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,514 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,530 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,547 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,555 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,563 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,571 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,579 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,588 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,597 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,605 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,613 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,621 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,630 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,638 - INFO - Mouse clicked at coordinates: (678, 314)
+2024-11-04 19:46:48,639 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:48,745 - INFO - Pygame quit
+2024-11-04 19:46:53,505 - INFO - Starting to capture coordinates
+2024-11-04 19:46:53,562 - INFO - Pygame initialized
+2024-11-04 19:46:53,595 - INFO - Overlay window created
+2024-11-04 19:46:53,595 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,598 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,606 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,609 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,618 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,620 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,623 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,624 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,626 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,627 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,629 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,631 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,632 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,634 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,635 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,636 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,638 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,639 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,646 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,654 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,662 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,670 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,679 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,687 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,695 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,704 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,712 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,720 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,729 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,737 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,746 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,754 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,763 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,771 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,779 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,788 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,796 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,805 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,812 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,829 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,838 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,846 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,854 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,863 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,871 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,880 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,887 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,896 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,905 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,913 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,921 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,929 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,938 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,946 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,961 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,964 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,967 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,971 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,979 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,987 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:53,996 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,004 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,029 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,038 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,054 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,063 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,071 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,079 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,087 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,097 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,105 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,113 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,121 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,130 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,138 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,146 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,154 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,163 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,171 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,179 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,187 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,196 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,204 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,212 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,221 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,230 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,238 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,246 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,254 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,263 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,271 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,279 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,287 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,298 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,304 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,312 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,321 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,331 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,339 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,347 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,355 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,363 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,371 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,379 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,388 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,396 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,404 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,413 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,421 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,429 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,438 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,447 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,455 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,463 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,471 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,479 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,487 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,497 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,504 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,513 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,529 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,546 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,555 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,563 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,571 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,579 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,589 - INFO - Mouse clicked at coordinates: (1286, 115)
+2024-11-04 19:46:54,589 - INFO - Overlay drawn with transparency
+2024-11-04 19:46:54,704 - INFO - Pygame quit
+2024-11-04 19:46:57,848 - INFO - Adding new step
+2024-11-04 19:46:57,849 - INFO - Added step: Locate and RightClick(1286, 115)
+2024-11-04 19:47:00,346 - INFO - Starting to capture coordinates
+2024-11-04 19:47:00,405 - INFO - Pygame initialized
+2024-11-04 19:47:00,437 - INFO - Overlay window created
+2024-11-04 19:47:00,439 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,441 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,443 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,444 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,458 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,459 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,462 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,486 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,488 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,496 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,504 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,512 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,521 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,529 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,538 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,546 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,554 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,562 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,571 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,579 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,587 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,596 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,604 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,612 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,621 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,630 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,638 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,646 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,654 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,663 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,672 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,679 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,687 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,696 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,704 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,712 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,721 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,729 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,738 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,746 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,754 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,763 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,771 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,780 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,787 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,796 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,804 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,812 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,830 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,838 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,846 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,854 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,863 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,871 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,879 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,889 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,897 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,905 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,913 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,921 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,931 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,938 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,946 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,954 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,964 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,971 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,979 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,987 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:00,996 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,006 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,013 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,022 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,029 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,038 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,046 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,054 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,063 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,071 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,079 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,088 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,096 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,105 - INFO - Mouse clicked at coordinates: (745, 91)
+2024-11-04 19:47:01,105 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:01,213 - INFO - Pygame quit
+2024-11-04 19:47:02,627 - INFO - Adding new step
+2024-11-04 19:47:02,627 - INFO - Added step: Locate and Click(745, 91)
+2024-11-04 19:47:10,406 - INFO - Adding new step
+2024-11-04 19:47:10,407 - INFO - Added step: WriteOnUI(745, 91, 'text')
+2024-11-04 19:47:12,670 - INFO - Starting to capture coordinates
+2024-11-04 19:47:12,728 - INFO - Pygame initialized
+2024-11-04 19:47:12,763 - INFO - Overlay window created
+2024-11-04 19:47:12,764 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,766 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,768 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,770 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,772 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,775 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,778 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,779 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,781 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,782 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,784 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,785 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,786 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,787 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,788 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,789 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,791 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,793 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,832 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,833 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,835 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,850 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,858 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,867 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,875 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,883 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,892 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,900 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,908 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,916 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,925 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,933 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,942 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,950 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,958 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,967 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,975 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,983 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:12,992 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,000 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,009 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,017 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,025 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,034 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,042 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,050 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,058 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,068 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,075 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,083 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,093 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,100 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,109 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,117 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,127 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,134 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,142 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,151 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,158 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,167 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,175 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,183 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,192 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,200 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,209 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,217 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,225 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,233 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,242 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,250 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,258 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,267 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,276 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,283 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,292 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,300 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,309 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,317 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,325 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,334 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,342 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,350 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,358 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,368 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,375 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,383 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,391 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,401 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,409 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,417 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,425 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,435 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,443 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,450 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,458 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,468 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,476 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,483 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,492 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,500 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,509 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,517 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,525 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,533 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,542 - INFO - Mouse clicked at coordinates: (1282, 108)
+2024-11-04 19:47:13,543 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:13,656 - INFO - Pygame quit
+2024-11-04 19:47:15,501 - INFO - Adding new step
+2024-11-04 19:47:15,501 - INFO - Added step: WriteOnUI(1282, 108, 'text')
+2024-11-04 19:47:19,601 - INFO - Adding new step
+2024-11-04 19:47:21,010 - WARNING - Text input not applicable for this operation
+2024-11-04 19:47:21,815 - INFO - Starting to capture coordinates
+2024-11-04 19:47:21,873 - INFO - Pygame initialized
+2024-11-04 19:47:21,904 - INFO - Overlay window created
+2024-11-04 19:47:21,905 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,908 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,909 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,910 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,912 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,914 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,922 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,923 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,925 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,926 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,928 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,929 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,956 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,958 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,960 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,975 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,983 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:21,991 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,000 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,008 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,016 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,025 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,033 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,042 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,050 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,058 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,067 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,075 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,083 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,092 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,100 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,109 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,117 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,127 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,134 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,143 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,150 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,158 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,168 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,176 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,183 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,191 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,200 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,209 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,216 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,225 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,233 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,242 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,251 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,258 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,268 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,276 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,283 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,291 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,300 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,308 - INFO - Mouse clicked at coordinates: (680, 65)
+2024-11-04 19:47:22,309 - INFO - Overlay drawn with transparency
+2024-11-04 19:47:22,417 - INFO - Pygame quit
+2024-11-04 19:47:24,353 - INFO - Adding new step
+2024-11-04 19:47:26,832 - WARNING - Text input not applicable for this operation
+2024-11-04 19:47:29,393 - INFO - Adding new step
+2024-11-04 19:47:29,394 - INFO - Added step: Locate and Click(680, 65)
+2024-11-04 19:47:31,461 - INFO - Saving flow
+2024-11-04 19:47:36,892 - INFO - Flow saved successfully
+2024-11-04 19:47:38,406 - INFO - Application closed
+2024-11-04 19:55:10,775 - INFO - Starting application
+2024-11-04 19:55:10,893 - INFO - Initializing CodelessAutomationApp
+2024-11-04 19:55:10,894 - INFO - Window title set
+2024-11-04 19:55:10,894 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image']
+2024-11-04 19:55:10,894 - INFO - Creating widgets
+2024-11-04 19:55:10,894 - INFO - Operation variable set to default
+2024-11-04 19:55:10,896 - INFO - Label for operation selection created
+2024-11-04 19:55:10,897 - INFO - Operation dropdown created
+2024-11-04 19:55:10,897 - INFO - Snap Location button created
+2024-11-04 19:55:10,897 - INFO - Coordinates entry created
+2024-11-04 19:55:10,897 - INFO - Text entry created
+2024-11-04 19:55:10,897 - INFO - Add New Step button created
+2024-11-04 19:55:10,898 - INFO - Step list created
+2024-11-04 19:55:10,899 - INFO - Save button created
+2024-11-04 19:55:10,899 - INFO - Save and Run button created
+2024-11-04 19:55:12,403 - INFO - Starting to capture coordinates
+2024-11-04 19:55:12,588 - INFO - Pygame initialized
+2024-11-04 19:55:12,614 - INFO - Overlay window created
+2024-11-04 19:55:12,615 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,617 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,618 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,619 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,631 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,632 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,633 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,634 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,636 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,637 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,668 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,670 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,672 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,686 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,694 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,704 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,711 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,719 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,729 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,737 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,745 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,753 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,762 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,770 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,778 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,786 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,798 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,803 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,811 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,821 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,828 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,837 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,845 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,853 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,861 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,870 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,878 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,886 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,895 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,903 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,911 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,920 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,928 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,937 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,945 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,953 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,963 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,970 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,978 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,987 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:12,996 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,004 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,011 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,021 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,029 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,037 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,045 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,053 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,062 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,070 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,079 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,086 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,096 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,103 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,112 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,120 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,129 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,137 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,145 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,153 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,163 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,171 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,178 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,186 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,195 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,203 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,211 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,220 - INFO - Mouse clicked at coordinates: (669, 123)
+2024-11-04 19:55:13,220 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:13,336 - INFO - Pygame quit
+2024-11-04 19:55:16,065 - INFO - Adding new step
+2024-11-04 19:55:16,066 - INFO - Added step: Locate and Click(669, 123)
+2024-11-04 19:55:20,709 - INFO - Starting to capture coordinates
+2024-11-04 19:55:20,770 - INFO - Pygame initialized
+2024-11-04 19:55:20,800 - INFO - Overlay window created
+2024-11-04 19:55:20,800 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,803 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,805 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,808 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,820 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,822 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,823 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,825 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,826 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,828 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,829 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,831 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,833 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,840 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,848 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,857 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,865 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,874 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,882 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,890 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,899 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,907 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,915 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,924 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,933 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,941 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,949 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,957 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,966 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,974 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,982 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,990 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:20,999 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,007 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,017 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,024 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,033 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,041 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,049 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,057 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,066 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,074 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,082 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,091 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,100 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,107 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,115 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,124 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,134 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,142 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,149 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,157 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,167 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,174 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,182 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,191 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,199 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,207 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,215 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,224 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,232 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,241 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,249 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,257 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,266 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,275 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,283 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,290 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,300 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,307 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,315 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,324 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,332 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,341 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,350 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,358 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,367 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,374 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,384 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,391 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,400 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,408 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,416 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,424 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,433 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,441 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,449 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,457 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,466 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,474 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,482 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,491 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,499 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,508 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,516 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,524 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,532 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,541 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,550 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,558 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,567 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,574 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,583 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,590 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,599 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,607 - INFO - Mouse clicked at coordinates: (899, 126)
+2024-11-04 19:55:21,608 - INFO - Overlay drawn with transparency
+2024-11-04 19:55:21,720 - INFO - Pygame quit
+2024-11-04 19:55:22,933 - INFO - Adding new step
+2024-11-04 19:55:22,934 - INFO - Added step: Locate and RightClick(899, 126)
+2024-11-04 19:55:25,294 - INFO - Saving flow
+2024-11-04 19:55:28,322 - INFO - Flow saved successfully
+2024-11-04 19:58:10,616 - INFO - Starting application
+2024-11-04 19:58:10,755 - INFO - Initializing CodelessAutomationApp
+2024-11-04 19:58:10,756 - INFO - Window title set
+2024-11-04 19:58:10,756 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image']
+2024-11-04 19:58:10,756 - INFO - Creating widgets
+2024-11-04 19:58:10,756 - INFO - Operation variable set to default
+2024-11-04 19:58:10,758 - INFO - Label for operation selection created
+2024-11-04 19:58:10,758 - INFO - Operation dropdown created
+2024-11-04 19:58:10,758 - INFO - Snap Location button created
+2024-11-04 19:58:10,759 - INFO - Coordinates entry created
+2024-11-04 19:58:10,759 - INFO - Text entry created
+2024-11-04 19:58:10,759 - INFO - Add New Step button created
+2024-11-04 19:58:10,760 - INFO - Step list created
+2024-11-04 19:58:10,760 - INFO - Save button created
+2024-11-04 19:58:10,760 - INFO - Save and Run button created
+2024-11-04 19:58:12,343 - INFO - Starting to capture coordinates
+2024-11-04 19:58:12,522 - INFO - Pygame initialized
+2024-11-04 19:58:12,546 - INFO - Overlay window created
+2024-11-04 19:58:12,548 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,550 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,552 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,554 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,568 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,592 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,593 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,595 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,610 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,618 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,627 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,635 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,644 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,652 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,661 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,669 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,677 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,686 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,695 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,703 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,711 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,719 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,728 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,736 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,744 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,753 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,761 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,769 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,778 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,785 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,794 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,802 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,810 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,819 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,827 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,836 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,844 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,853 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,861 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,869 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,877 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,889 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,894 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,902 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,910 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,919 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,927 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,936 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,944 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,952 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,961 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,969 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,977 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,985 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:12,994 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,003 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,010 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,019 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,028 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,036 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,044 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,052 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,061 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,069 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,077 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,085 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,094 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,102 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,110 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,119 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,127 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,136 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,144 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,152 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,161 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,169 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,177 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,185 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,194 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,202 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,210 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,219 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,227 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,236 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,244 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,253 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,262 - INFO - Mouse clicked at coordinates: (612, 174)
+2024-11-04 19:58:13,263 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:13,377 - INFO - Pygame quit
+2024-11-04 19:58:14,963 - INFO - Adding new step
+2024-11-04 19:58:14,964 - INFO - Added step: Locate and Click(612, 174)
+2024-11-04 19:58:17,883 - INFO - Starting to capture coordinates
+2024-11-04 19:58:17,941 - INFO - Pygame initialized
+2024-11-04 19:58:17,974 - INFO - Overlay window created
+2024-11-04 19:58:17,975 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,977 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,979 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,981 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,982 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,984 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,986 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,988 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,989 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,990 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,992 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,993 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,995 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:17,996 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,001 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,033 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,035 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,037 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,039 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,050 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,060 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,069 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,077 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,085 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,094 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,102 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,110 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,118 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,127 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,136 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,144 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,152 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,160 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,169 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,177 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,185 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,194 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,203 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,210 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,219 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,228 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,236 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,244 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,253 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,261 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,269 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,277 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,286 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,294 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,302 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,310 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,320 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,328 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,336 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,344 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,352 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,362 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,370 - INFO - Mouse clicked at coordinates: (353, 152)
+2024-11-04 19:58:18,371 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:18,380 - INFO - Pygame quit
+2024-11-04 19:58:20,229 - INFO - Adding new step
+2024-11-04 19:58:20,230 - INFO - Added step: Locate and RightClick(353, 152)
+2024-11-04 19:58:24,878 - INFO - Starting to capture coordinates
+2024-11-04 19:58:24,935 - INFO - Pygame initialized
+2024-11-04 19:58:24,967 - INFO - Overlay window created
+2024-11-04 19:58:24,968 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:24,971 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:24,973 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:24,976 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:24,987 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:24,989 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,009 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,010 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,018 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,027 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,035 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,043 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,052 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,060 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,069 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,077 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,085 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,094 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,102 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,110 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,118 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,128 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,136 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,144 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,152 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,161 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,169 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,177 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,185 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,195 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,202 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,210 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,219 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,227 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,236 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,243 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,252 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,261 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,269 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,277 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,285 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,295 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,302 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,310 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,318 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,327 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,336 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,344 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,352 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,361 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,369 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,377 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,386 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,394 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,402 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,410 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,419 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,428 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,436 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,445 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,452 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,461 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,469 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,477 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,485 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,494 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,502 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,510 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,519 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,529 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,536 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,544 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,552 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,561 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,569 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,578 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,585 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,595 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,602 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,610 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,619 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,627 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,636 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,644 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,653 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,660 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,669 - INFO - Mouse clicked at coordinates: (403, 78)
+2024-11-04 19:58:25,670 - INFO - Overlay drawn with transparency
+2024-11-04 19:58:25,774 - INFO - Pygame quit
+2024-11-04 19:58:27,724 - INFO - Adding new step
+2024-11-04 19:58:27,725 - INFO - Added step: ClickOnCoordinatesInUI(403, 78)
+2024-11-04 19:58:33,924 - INFO - Application closed
+2024-11-04 20:01:01,892 - INFO - Starting application
+2024-11-04 20:01:02,007 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:01:02,008 - DEBUG - Window title set to 'Codeless Automation Tool'
+2024-11-04 20:01:02,008 - DEBUG - Operations list initialized
+2024-11-04 20:01:02,008 - INFO - Creating widgets
+2024-11-04 20:01:02,008 - DEBUG - Default operation set to 'Locate and Click'
+2024-11-04 20:01:02,011 - DEBUG - Operation dropdown menu created
+2024-11-04 20:01:02,011 - INFO - Snap Location button added to UI
+2024-11-04 20:01:02,011 - DEBUG - Coordinates entry field created
+2024-11-04 20:01:02,011 - DEBUG - Text entry field created
+2024-11-04 20:01:02,011 - INFO - Add New Step button added to UI
+2024-11-04 20:01:02,012 - DEBUG - Scrolled text widget for displaying steps created
+2024-11-04 20:01:02,013 - INFO - Save and Save and Run buttons added to UI
+2024-11-04 20:01:03,926 - INFO - Initiating coordinates capture with transparent overlay
+2024-11-04 20:01:04,145 - DEBUG - Pygame initialized for coordinate capture
+2024-11-04 20:01:04,173 - DEBUG - Pygame overlay window created
+2024-11-04 20:01:05,073 - INFO - Mouse clicked at coordinates: (904, 78)
+2024-11-04 20:01:05,170 - DEBUG - Pygame for overlay capture exited
+2024-11-04 20:01:06,674 - INFO - Attempting to add a new step
+2024-11-04 20:01:06,674 - INFO - Added step: Locate and Click(904, 78)
+2024-11-04 20:01:09,492 - INFO - Initiating coordinates capture with transparent overlay
+2024-11-04 20:01:09,550 - DEBUG - Pygame initialized for coordinate capture
+2024-11-04 20:01:09,583 - DEBUG - Pygame overlay window created
+2024-11-04 20:01:11,277 - INFO - Mouse clicked at coordinates: (1235, 580)
+2024-11-04 20:01:11,382 - DEBUG - Pygame for overlay capture exited
+2024-11-04 20:01:13,007 - INFO - Attempting to add a new step
+2024-11-04 20:01:13,007 - INFO - Added step: Locate and RightClick(1235, 580)
+2024-11-04 20:01:17,859 - INFO - Initiating coordinates capture with transparent overlay
+2024-11-04 20:01:17,915 - DEBUG - Pygame initialized for coordinate capture
+2024-11-04 20:01:17,946 - DEBUG - Pygame overlay window created
+2024-11-04 20:01:18,852 - INFO - Mouse clicked at coordinates: (310, 671)
+2024-11-04 20:01:18,962 - DEBUG - Pygame for overlay capture exited
+2024-11-04 20:01:21,028 - INFO - Attempting to add a new step
+2024-11-04 20:01:21,028 - INFO - Added step: ZoomInUI(310, 671)
+2024-11-04 20:01:33,908 - INFO - Initiating coordinates capture with transparent overlay
+2024-11-04 20:01:33,965 - DEBUG - Pygame initialized for coordinate capture
+2024-11-04 20:01:33,992 - DEBUG - Pygame overlay window created
+2024-11-04 20:01:35,077 - INFO - Mouse clicked at coordinates: (1055, 98)
+2024-11-04 20:01:35,193 - DEBUG - Pygame for overlay capture exited
+2024-11-04 20:01:36,809 - INFO - Attempting to add a new step
+2024-11-04 20:01:36,809 - INFO - Added step: Locate and Click(1055, 98)
+2024-11-04 20:22:37,873 - INFO - Starting application
+2024-11-04 20:22:38,033 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:22:38,034 - INFO - Window title set
+2024-11-04 20:22:38,034 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:22:38,034 - INFO - Creating widgets
+2024-11-04 20:22:38,036 - INFO - Operation dropdown created
+2024-11-04 20:22:38,037 - INFO - Snap Location button created
+2024-11-04 20:22:38,037 - INFO - Coordinates entry created
+2024-11-04 20:22:38,037 - INFO - Text entry created
+2024-11-04 20:22:38,037 - INFO - Add New Step button created
+2024-11-04 20:22:38,038 - INFO - Step list created
+2024-11-04 20:22:38,038 - INFO - Save button created
+2024-11-04 20:22:38,038 - INFO - Save and Run button created
+2024-11-04 20:22:39,540 - INFO - Starting to capture coordinates
+2024-11-04 20:22:39,732 - INFO - Pygame initialized
+2024-11-04 20:22:39,760 - INFO - Transparent overlay created
+2024-11-04 20:22:40,489 - INFO - Mouse clicked at coordinates: (687, 111)
+2024-11-04 20:22:40,598 - INFO - Pygame quit
+2024-11-04 20:22:42,629 - INFO - Adding new step
+2024-11-04 20:22:42,629 - INFO - Added step: Locate and Click(687, 111)
+2024-11-04 20:22:46,286 - INFO - Starting to capture coordinates
+2024-11-04 20:22:46,343 - INFO - Pygame initialized
+2024-11-04 20:22:46,376 - INFO - Transparent overlay created
+2024-11-04 20:22:47,199 - INFO - Mouse clicked at coordinates: (1184, 94)
+2024-11-04 20:22:47,209 - INFO - Pygame quit
+2024-11-04 20:22:48,912 - INFO - Adding new step
+2024-11-04 20:22:48,912 - INFO - Added step: Locate and RightClick(1184, 94)
+2024-11-04 20:22:51,870 - INFO - Application closed
+2024-11-04 20:23:09,819 - INFO - Starting application
+2024-11-04 20:23:09,949 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:23:09,950 - INFO - Window title set
+2024-11-04 20:23:09,950 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:23:09,950 - INFO - Creating widgets
+2024-11-04 20:23:09,952 - INFO - Operation dropdown created
+2024-11-04 20:23:09,953 - INFO - Snap Location button created
+2024-11-04 20:23:09,953 - INFO - Coordinates entry created
+2024-11-04 20:23:09,953 - INFO - Text entry created
+2024-11-04 20:23:09,953 - INFO - Add New Step button created
+2024-11-04 20:23:09,954 - INFO - Step list created
+2024-11-04 20:23:09,954 - INFO - Save button created
+2024-11-04 20:23:09,954 - INFO - Save and Run button created
+2024-11-04 20:23:11,709 - INFO - Starting to capture coordinates
+2024-11-04 20:23:11,891 - INFO - Pygame initialized
+2024-11-04 20:23:11,918 - INFO - Transparent overlay created
+2024-11-04 20:23:12,706 - INFO - Mouse clicked at coordinates: (759, 109)
+2024-11-04 20:23:12,820 - INFO - Pygame quit
+2024-11-04 20:25:50,874 - INFO - Starting application
+2024-11-04 20:25:50,990 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:25:50,991 - INFO - Window title set
+2024-11-04 20:25:50,991 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:25:50,991 - INFO - Creating widgets
+2024-11-04 20:25:50,993 - INFO - Operation dropdown created
+2024-11-04 20:25:50,993 - INFO - Snap Location button created
+2024-11-04 20:25:50,994 - INFO - Coordinates entry created
+2024-11-04 20:25:50,994 - INFO - Text entry created
+2024-11-04 20:25:50,994 - INFO - Add New Step button created
+2024-11-04 20:25:50,995 - INFO - Step list created
+2024-11-04 20:25:50,995 - INFO - Save button created
+2024-11-04 20:25:50,995 - INFO - Save and Run button created
+2024-11-04 20:25:52,494 - INFO - Starting to capture coordinates
+2024-11-04 20:25:52,672 - INFO - Pygame initialized
+2024-11-04 20:25:52,700 - INFO - Transparent overlay created
+2024-11-04 20:25:52,855 - INFO - Mouse clicked at coordinates: (261, 133)
+2024-11-04 20:25:52,969 - INFO - Pygame quit
+2024-11-04 20:25:54,662 - INFO - Adding new step
+2024-11-04 20:25:54,663 - INFO - Added step: Locate and Click(261, 133)
+2024-11-04 20:28:44,318 - INFO - Starting application
+2024-11-04 20:28:44,441 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:28:44,441 - INFO - Window title set
+2024-11-04 20:28:44,441 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:28:44,441 - INFO - Creating widgets
+2024-11-04 20:28:44,444 - INFO - Operation dropdown created
+2024-11-04 20:28:44,444 - INFO - Snap Location button created
+2024-11-04 20:28:44,444 - INFO - Coordinates entry created
+2024-11-04 20:28:44,445 - INFO - Text entry created
+2024-11-04 20:28:44,445 - INFO - Add New Step button created
+2024-11-04 20:28:44,446 - INFO - Step list created
+2024-11-04 20:28:44,446 - INFO - Save button created
+2024-11-04 20:28:44,446 - INFO - Save and Run button created
+2024-11-04 20:28:46,853 - INFO - Starting to capture coordinates
+2024-11-04 20:28:47,026 - INFO - Pygame initialized
+2024-11-04 20:28:47,053 - INFO - Transparent overlay created
+2024-11-04 20:28:47,180 - INFO - Mouse clicked at coordinates: (245, 127)
+2024-11-04 20:28:47,291 - INFO - Pygame quit
+2024-11-04 20:28:51,722 - INFO - Adding new step
+2024-11-04 20:28:51,722 - INFO - Added step: Locate and Click(245, 127)
+2024-11-04 20:28:52,781 - INFO - Starting to capture coordinates
+2024-11-04 20:28:52,838 - INFO - Pygame initialized
+2024-11-04 20:28:52,873 - INFO - Transparent overlay created
+2024-11-04 20:28:53,597 - INFO - Mouse clicked at coordinates: (591, 169)
+2024-11-04 20:28:53,703 - INFO - Pygame quit
+2024-11-04 20:28:55,668 - INFO - Adding new step
+2024-11-04 20:28:55,669 - INFO - Added step: Locate and Click(591, 169)
+2024-11-04 20:29:23,969 - INFO - Starting application
+2024-11-04 20:29:24,100 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:29:24,101 - INFO - Window title set
+2024-11-04 20:29:24,101 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:29:24,101 - INFO - Creating widgets
+2024-11-04 20:29:24,103 - INFO - Operation dropdown created
+2024-11-04 20:29:24,103 - INFO - Snap Location button created
+2024-11-04 20:29:24,103 - INFO - Coordinates entry created
+2024-11-04 20:29:24,104 - INFO - Text entry created
+2024-11-04 20:29:24,104 - INFO - Add New Step button created
+2024-11-04 20:29:24,105 - INFO - Step list created
+2024-11-04 20:29:24,105 - INFO - Save button created
+2024-11-04 20:29:24,105 - INFO - Save and Run button created
+2024-11-04 20:29:25,475 - INFO - Starting to capture coordinates
+2024-11-04 20:29:25,642 - INFO - Pygame initialized
+2024-11-04 20:29:25,667 - INFO - Transparent overlay created
+2024-11-04 20:29:25,742 - INFO - Mouse clicked at coordinates: (258, 134)
+2024-11-04 20:29:25,853 - INFO - Pygame quit
+2024-11-04 20:29:29,947 - INFO - Adding new step
+2024-11-04 20:29:29,948 - INFO - Added step: ClickOnCoordinatesInUI(258, 134)
+2024-11-04 20:29:32,664 - INFO - Starting to capture coordinates
+2024-11-04 20:29:32,723 - INFO - Pygame initialized
+2024-11-04 20:29:32,753 - INFO - Transparent overlay created
+2024-11-04 20:29:33,243 - INFO - Mouse clicked at coordinates: (369, 178)
+2024-11-04 20:29:33,351 - INFO - Pygame quit
+2024-11-04 20:29:34,581 - INFO - Adding new step
+2024-11-04 20:29:34,581 - INFO - Added step: ClickOnCoordinatesInUI(369, 178)
+2024-11-04 20:31:18,457 - INFO - Starting application
+2024-11-04 20:31:18,580 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:31:18,580 - INFO - Window title set
+2024-11-04 20:31:18,580 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:31:18,580 - INFO - Creating widgets
+2024-11-04 20:31:18,583 - INFO - Operation dropdown created
+2024-11-04 20:31:18,583 - INFO - Snap Location button created
+2024-11-04 20:31:18,584 - INFO - Coordinates entry created
+2024-11-04 20:31:18,584 - INFO - Text entry created
+2024-11-04 20:31:18,584 - INFO - Add New Step button created
+2024-11-04 20:31:18,585 - INFO - Step list created
+2024-11-04 20:31:18,585 - INFO - Save button created
+2024-11-04 20:31:18,585 - INFO - Save and Run button created
+2024-11-04 20:31:20,258 - INFO - Starting to capture coordinates
+2024-11-04 20:31:20,433 - INFO - Pygame initialized
+2024-11-04 20:31:20,456 - INFO - Transparent overlay created
+2024-11-04 20:31:20,959 - INFO - Mouse clicked at coordinates: (371, 123)
+2024-11-04 20:31:21,060 - INFO - Pygame quit
+2024-11-04 20:31:23,243 - INFO - Adding new step
+2024-11-04 20:31:23,243 - INFO - Added step: Locate and Click(371, 123)
+2024-11-04 20:31:25,759 - INFO - Starting to capture coordinates
+2024-11-04 20:31:25,817 - INFO - Pygame initialized
+2024-11-04 20:31:25,851 - INFO - Transparent overlay created
+2024-11-04 20:31:27,138 - INFO - Mouse clicked at coordinates: (850, 80)
+2024-11-04 20:31:27,233 - INFO - Pygame quit
+2024-11-04 20:31:28,580 - INFO - Adding new step
+2024-11-04 20:31:28,581 - INFO - Added step: Locate and RightClick(850, 80)
+2024-11-04 20:32:58,927 - INFO - Starting application
+2024-11-04 20:32:59,081 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:32:59,081 - INFO - Window title set
+2024-11-04 20:32:59,081 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:32:59,082 - INFO - Creating widgets
+2024-11-04 20:32:59,084 - INFO - Operation dropdown created
+2024-11-04 20:32:59,084 - INFO - Snap Location button created
+2024-11-04 20:32:59,085 - INFO - Coordinates entry created
+2024-11-04 20:32:59,085 - INFO - Text entry created
+2024-11-04 20:32:59,085 - INFO - Add New Step button created
+2024-11-04 20:32:59,087 - INFO - Step list created
+2024-11-04 20:32:59,087 - INFO - Save button created
+2024-11-04 20:32:59,087 - INFO - Save and Run button created
+2024-11-04 20:33:00,381 - INFO - Starting to capture coordinates
+2024-11-04 20:33:00,560 - INFO - Pygame initialized
+2024-11-04 20:33:00,586 - INFO - Transparent overlay created
+2024-11-04 20:33:01,030 - INFO - Mouse clicked at coordinates: (352, 121)
+2024-11-04 20:33:01,149 - INFO - Pygame quit
+2024-11-04 20:34:53,820 - INFO - Starting application
+2024-11-04 20:34:53,950 - INFO - Initializing CodelessAutomationApp
+2024-11-04 20:34:53,951 - INFO - Window title set
+2024-11-04 20:34:53,951 - INFO - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:34:53,951 - INFO - Creating widgets
+2024-11-04 20:34:53,953 - INFO - Operation dropdown created
+2024-11-04 20:34:53,954 - INFO - Snap Location button created
+2024-11-04 20:34:53,954 - INFO - Coordinates entry created
+2024-11-04 20:34:53,954 - INFO - Text entry created
+2024-11-04 20:34:53,954 - INFO - Add New Step button created
+2024-11-04 20:34:53,955 - INFO - Step list created
+2024-11-04 20:34:53,955 - INFO - Save button created
+2024-11-04 20:34:53,955 - INFO - Save and Run button created
+2024-11-04 20:34:55,312 - INFO - Starting to capture coordinates
+2024-11-04 20:34:55,490 - INFO - Pygame initialized
+2024-11-04 20:34:56,004 - INFO - Mouse clicked at coordinates: (338, 153)
+2024-11-04 20:34:56,118 - INFO - Pygame quit
+2024-11-04 20:37:39,463 - DEBUG - Starting application
+2024-11-04 20:37:39,589 - DEBUG - Initializing CodelessAutomationApp
+2024-11-04 20:37:39,589 - DEBUG - Window title set
+2024-11-04 20:37:39,589 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:37:39,589 - DEBUG - Creating widgets
+2024-11-04 20:37:39,592 - DEBUG - Operation dropdown created
+2024-11-04 20:37:39,592 - DEBUG - Snap Location button created
+2024-11-04 20:37:39,592 - DEBUG - Coordinates entry created
+2024-11-04 20:37:39,592 - DEBUG - Text entry created
+2024-11-04 20:37:39,592 - DEBUG - Add New Step button created
+2024-11-04 20:37:39,593 - DEBUG - Step list created
+2024-11-04 20:37:39,593 - DEBUG - Save button created
+2024-11-04 20:37:39,593 - DEBUG - Save and Run button created
+2024-11-04 20:37:42,127 - DEBUG - Starting to capture coordinates
+2024-11-04 20:37:42,307 - DEBUG - Pygame initialized
+2024-11-04 20:37:42,308 - DEBUG - Screen size determined: (1512, 982)
+2024-11-04 20:37:42,339 - DEBUG - Transparent overlay surface created
+2024-11-04 20:37:42,341 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,341 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,346 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,346 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,349 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,349 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,354 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,354 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,365 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,365 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,368 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,368 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,374 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,374 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,382 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,382 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,391 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,391 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,399 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,399 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,408 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,408 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,416 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,416 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,424 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,424 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,432 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,432 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,441 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,441 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,449 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,449 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,458 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,458 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,466 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,466 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,475 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,475 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,483 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,483 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,492 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,492 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,499 - DEBUG - Mouse clicked at coordinates: (252, 137)
+2024-11-04 20:37:42,500 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:37:42,500 - DEBUG - Thin transparent outline drawn on overlay
+2024-11-04 20:37:42,603 - DEBUG - Pygame quit
+2024-11-04 20:59:57,419 - DEBUG - Starting application
+2024-11-04 20:59:57,542 - DEBUG - Initializing CodelessAutomationApp
+2024-11-04 20:59:57,543 - DEBUG - Window title set
+2024-11-04 20:59:57,543 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and RightClick', 'Wait For Seconds', 'ClickOnCoordinatesInUI', 'WriteOnUI', 'WriteFilePath', 'ZoomInUI', 'ZoomOutUI', 'ScrollUpUI', 'ScrollDownUI', 'OpenFolderInExplorer', 'PressedKey', 'ReleasedKey', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 20:59:57,543 - DEBUG - Creating widgets
+2024-11-04 20:59:57,546 - DEBUG - Operation dropdown created
+2024-11-04 20:59:57,546 - DEBUG - Snap Location button created
+2024-11-04 20:59:57,546 - DEBUG - Coordinates entry created
+2024-11-04 20:59:57,546 - DEBUG - Text entry created
+2024-11-04 20:59:57,546 - DEBUG - Add New Step button created
+2024-11-04 20:59:57,548 - DEBUG - Step list created
+2024-11-04 20:59:57,548 - DEBUG - Save button created
+2024-11-04 20:59:57,548 - DEBUG - Save and Run button created
+2024-11-04 20:59:59,102 - DEBUG - Starting to capture coordinates
+2024-11-04 20:59:59,288 - DEBUG - Pygame initialized
+2024-11-04 20:59:59,288 - DEBUG - Screen size determined: (1512, 982)
+2024-11-04 20:59:59,316 - DEBUG - Transparent overlay surface created
+2024-11-04 20:59:59,317 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,317 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,317 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,324 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,328 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,328 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,328 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,331 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,334 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,334 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,334 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,336 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,355 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,355 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,355 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,357 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,362 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,362 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,362 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,364 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,367 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,367 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,367 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,371 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,374 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,374 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,374 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,377 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,381 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,381 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,381 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,383 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,390 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,390 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,390 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,392 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,396 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,397 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,397 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,399 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,405 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,405 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,405 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,407 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,413 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,413 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,413 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,417 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,421 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,421 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,421 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,425 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,430 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,430 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,430 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,433 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,438 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,438 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,438 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,442 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,446 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,447 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,447 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,450 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,455 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,455 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,455 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,458 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,463 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,464 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,464 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,466 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,471 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,472 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,472 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,474 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,480 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,480 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,480 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,482 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,488 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,488 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,488 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,491 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,497 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,497 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,497 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,500 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,505 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,505 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,505 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,508 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,514 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,514 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,514 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,516 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,521 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,522 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,522 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,525 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,530 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,530 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,530 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,532 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,539 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,539 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,539 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,541 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,547 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,547 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,547 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,549 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,555 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,555 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,555 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,557 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,564 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,564 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,564 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,567 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,572 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,572 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,572 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,574 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,580 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,580 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,580 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,582 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,588 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,588 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,588 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,591 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,598 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,598 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,598 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,600 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,605 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,606 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,606 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,608 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,614 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,614 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,614 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,616 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,622 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,622 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,622 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,624 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,631 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,631 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,631 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,633 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,638 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,638 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,639 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,641 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,647 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,648 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,648 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,650 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,655 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,655 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,656 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,658 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,664 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,664 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,664 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,667 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,672 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,672 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,672 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,676 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,681 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,681 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,681 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,684 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,688 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,688 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,688 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,692 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,697 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,697 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,697 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,701 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,705 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,705 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,705 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,709 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,713 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,714 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,714 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,717 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,722 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,722 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,722 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,725 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,730 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,730 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,730 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,734 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,738 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,738 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,738 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,742 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,747 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,747 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,747 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,750 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,755 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,755 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,755 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,758 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,764 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,764 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,764 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,766 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,772 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,772 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,772 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,775 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,780 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,780 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,780 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,782 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,789 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,789 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,789 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,791 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,797 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,798 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,798 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,800 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,805 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,805 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,805 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,808 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,814 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,814 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,814 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,817 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,822 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,822 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,822 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,825 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,830 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,830 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,830 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,833 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,838 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,838 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,838 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,841 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,848 - DEBUG - Mouse clicked at coordinates: (424, 147)
+2024-11-04 20:59:59,848 - DEBUG - Overlay cleared to maintain transparency
+2024-11-04 20:59:59,848 - DEBUG - Semi-transparent fill drawn on overlay
+2024-11-04 20:59:59,848 - DEBUG - Thicker border drawn on overlay
+2024-11-04 20:59:59,851 - DEBUG - Instructions drawn on overlay
+2024-11-04 20:59:59,956 - DEBUG - Pygame quit
+2024-11-04 21:00:06,144 - DEBUG - Adding new step
+2024-11-04 21:00:06,144 - DEBUG - Operation: Locate and Click, Coordinates: 424, 147, Text: 
+2024-11-04 21:00:06,145 - DEBUG - Added step: Locate and Click(424, 147)
+2024-11-04 21:28:06,289 - DEBUG - Starting application
+2024-11-04 21:28:06,446 - DEBUG - Initializing CodelessAutomationApp
+2024-11-04 21:28:06,446 - DEBUG - Window title set
+2024-11-04 21:28:06,446 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-04 21:28:06,446 - DEBUG - Creating widgets
+2024-11-04 21:28:06,449 - DEBUG - Operation dropdown created
+2024-11-04 21:28:06,450 - DEBUG - Snap Location button created
+2024-11-04 21:28:06,450 - DEBUG - Image Name entry created
+2024-11-04 21:28:06,450 - DEBUG - Text entry created
+2024-11-04 21:28:06,450 - DEBUG - Add New Step button created
+2024-11-04 21:28:06,451 - DEBUG - Step list created
+2024-11-04 21:28:06,451 - DEBUG - Save button created
+2024-11-04 21:28:06,451 - DEBUG - Save and Run button created
+2024-11-04 21:28:08,081 - DEBUG - Capturing screenshot
+2024-11-04 21:28:18,803 - DEBUG - Capturing screenshot
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:19,069 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:19,069 - DEBUG - Compression method 0
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:19,069 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:19,069 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:19,125 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212819.png
+2024-11-04 21:28:20,291 - DEBUG - Capturing screenshot
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:20,553 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:20,553 - DEBUG - Compression method 0
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:20,553 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:20,553 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:20,606 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212820.png
+2024-11-04 21:28:20,995 - DEBUG - Capturing screenshot
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:21,239 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:21,239 - DEBUG - Compression method 0
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:21,239 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:21,239 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:21,294 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212821.png
+2024-11-04 21:28:21,298 - DEBUG - Capturing screenshot
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:21,474 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:21,474 - DEBUG - Compression method 0
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:21,474 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:21,474 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:21,531 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212821.png
+2024-11-04 21:28:22,459 - DEBUG - Capturing screenshot
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:22,701 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:22,701 - DEBUG - Compression method 0
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:22,701 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:22,701 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:22,755 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212822.png
+2024-11-04 21:28:24,376 - DEBUG - Capturing screenshot
+2024-11-04 21:28:24,621 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:24,622 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:24,622 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:24,622 - DEBUG - Compression method 0
+2024-11-04 21:28:24,622 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:24,622 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:24,622 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:24,622 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:24,622 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:24,622 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:24,676 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212824.png
+2024-11-04 21:28:24,924 - DEBUG - Capturing screenshot
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:25,160 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:25,160 - DEBUG - Compression method 0
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:25,160 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:25,160 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:25,213 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212825.png
+2024-11-04 21:28:25,219 - DEBUG - Capturing screenshot
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:25,403 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:25,403 - DEBUG - Compression method 0
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:25,403 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:25,403 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:25,460 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212825.png
+2024-11-04 21:28:25,463 - DEBUG - Capturing screenshot
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:25,628 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:25,628 - DEBUG - Compression method 0
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:25,628 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:25,628 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:25,683 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212825.png
+2024-11-04 21:28:25,788 - DEBUG - Capturing screenshot
+2024-11-04 21:28:25,999 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:25,999 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:25,999 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:25,999 - DEBUG - Compression method 0
+2024-11-04 21:28:26,000 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:26,000 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:26,000 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:26,000 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:26,000 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:26,000 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:26,051 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212826.png
+2024-11-04 21:28:26,599 - DEBUG - Adding new step
+2024-11-04 21:28:26,599 - DEBUG - Added step: Locate and Click('/Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212826.png', '')
+2024-11-04 21:28:35,791 - DEBUG - Capturing screenshot
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:36,008 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:36,008 - DEBUG - Compression method 0
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:36,008 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:36,008 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:36,026 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212836.png
+2024-11-04 21:28:36,032 - DEBUG - Capturing screenshot
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'iCCP' 41 3135
+2024-11-04 21:28:36,208 - DEBUG - iCCP profile name b'ICC Profile'
+2024-11-04 21:28:36,208 - DEBUG - Compression method 0
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'eXIf' 3188 138
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'pHYs' 3338 9
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'iTXt' 3359 470
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'iDOT' 3841 28
+2024-11-04 21:28:36,208 - DEBUG - b'iDOT' 3841 28 (unknown)
+2024-11-04 21:28:36,208 - DEBUG - STREAM b'IDAT' 3881 16384
+2024-11-04 21:28:36,229 - DEBUG - Screenshot saved as: /Users/swapnil/PycharmProjects/CodeLess Automation/code/screenshot_20241104_212836.png
+2024-11-05 00:47:51,630 - DEBUG - Starting application
+2024-11-05 00:47:51,765 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:47:51,765 - DEBUG - Window title set
+2024-11-05 00:47:51,765 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:47:51,765 - DEBUG - Creating widgets
+2024-11-05 00:47:51,768 - DEBUG - Operation dropdown created
+2024-11-05 00:47:51,768 - DEBUG - Snap Location button created
+2024-11-05 00:47:51,769 - DEBUG - Image Name entry created
+2024-11-05 00:47:51,769 - DEBUG - Text entry created
+2024-11-05 00:47:51,769 - DEBUG - Add New Step button created
+2024-11-05 00:47:51,770 - DEBUG - Step list created
+2024-11-05 00:47:51,770 - DEBUG - Save button created
+2024-11-05 00:47:51,770 - DEBUG - Save and Run button created
+2024-11-05 00:47:55,671 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:47:55,671 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4
+2024-11-05 00:48:05,203 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:48:05,204 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4
+2024-11-05 00:50:22,883 - DEBUG - Starting application
+2024-11-05 00:50:23,005 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:50:23,005 - DEBUG - Window title set
+2024-11-05 00:50:23,006 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:50:23,006 - DEBUG - Creating widgets
+2024-11-05 00:50:23,008 - DEBUG - Operation dropdown created
+2024-11-05 00:50:23,008 - DEBUG - Snap Location button created
+2024-11-05 00:50:23,008 - DEBUG - Image Name entry created
+2024-11-05 00:50:23,008 - DEBUG - Text entry created
+2024-11-05 00:50:23,009 - DEBUG - Add New Step button created
+2024-11-05 00:50:23,009 - DEBUG - Step list created
+2024-11-05 00:50:23,009 - DEBUG - Save button created
+2024-11-05 00:50:23,010 - DEBUG - Save and Run button created
+2024-11-05 00:50:25,068 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:50:25,068 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4
+2024-11-05 00:51:20,806 - DEBUG - Starting application
+2024-11-05 00:51:20,938 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:51:20,939 - DEBUG - Window title set
+2024-11-05 00:51:20,939 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:51:20,939 - DEBUG - Creating widgets
+2024-11-05 00:51:20,941 - DEBUG - Operation dropdown created
+2024-11-05 00:51:20,941 - DEBUG - Snap Location button created
+2024-11-05 00:51:20,942 - DEBUG - Image Name entry created
+2024-11-05 00:51:20,942 - DEBUG - Text entry created
+2024-11-05 00:51:20,942 - DEBUG - Add New Step button created
+2024-11-05 00:51:20,943 - DEBUG - Step list created
+2024-11-05 00:51:20,943 - DEBUG - Save button created
+2024-11-05 00:51:20,943 - DEBUG - Save and Run button created
+2024-11-05 00:51:22,906 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:51:22,906 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4
+2024-11-05 00:54:13,894 - DEBUG - Starting application
+2024-11-05 00:54:14,019 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:54:14,019 - DEBUG - Window title set
+2024-11-05 00:54:14,019 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:54:14,019 - DEBUG - Creating widgets
+2024-11-05 00:54:14,022 - DEBUG - Operation dropdown created
+2024-11-05 00:54:14,023 - DEBUG - Snap Location button created
+2024-11-05 00:54:14,023 - DEBUG - Image Name entry created
+2024-11-05 00:54:14,023 - DEBUG - Text entry created
+2024-11-05 00:54:14,023 - DEBUG - Add New Step button created
+2024-11-05 00:54:14,024 - DEBUG - Step list created
+2024-11-05 00:54:14,024 - DEBUG - Save button created
+2024-11-05 00:54:14,025 - DEBUG - Save and Run button created
+2024-11-05 00:54:15,562 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:54:15,562 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4
+2024-11-05 00:55:35,280 - DEBUG - Starting application
+2024-11-05 00:55:35,404 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:55:35,404 - DEBUG - Window title set
+2024-11-05 00:55:35,404 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:55:35,404 - DEBUG - Creating widgets
+2024-11-05 00:55:35,407 - DEBUG - Operation dropdown created
+2024-11-05 00:55:35,407 - DEBUG - Snap Location button created
+2024-11-05 00:55:35,407 - DEBUG - Image Name entry created
+2024-11-05 00:55:35,407 - DEBUG - Text entry created
+2024-11-05 00:55:35,407 - DEBUG - Add New Step button created
+2024-11-05 00:55:35,408 - DEBUG - Step list created
+2024-11-05 00:55:35,408 - DEBUG - Save button created
+2024-11-05 00:55:35,408 - DEBUG - Save and Run button created
+2024-11-05 00:55:37,336 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:55:37,336 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 00:55:46,746 - DEBUG - Starting application
+2024-11-05 00:55:46,871 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:55:46,872 - DEBUG - Window title set
+2024-11-05 00:55:46,872 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:55:46,872 - DEBUG - Creating widgets
+2024-11-05 00:55:46,874 - DEBUG - Operation dropdown created
+2024-11-05 00:55:46,874 - DEBUG - Snap Location button created
+2024-11-05 00:55:46,875 - DEBUG - Image Name entry created
+2024-11-05 00:55:46,875 - DEBUG - Text entry created
+2024-11-05 00:55:46,875 - DEBUG - Add New Step button created
+2024-11-05 00:55:46,876 - DEBUG - Step list created
+2024-11-05 00:55:46,876 - DEBUG - Save button created
+2024-11-05 00:55:46,876 - DEBUG - Save and Run button created
+2024-11-05 00:55:48,373 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:55:48,374 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 00:56:03,664 - DEBUG - Starting application
+2024-11-05 00:56:03,783 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:56:03,783 - DEBUG - Window title set
+2024-11-05 00:56:03,783 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:56:03,783 - DEBUG - Creating widgets
+2024-11-05 00:56:03,786 - DEBUG - Operation dropdown created
+2024-11-05 00:56:03,786 - DEBUG - Snap Location button created
+2024-11-05 00:56:03,786 - DEBUG - Image Name entry created
+2024-11-05 00:56:03,786 - DEBUG - Text entry created
+2024-11-05 00:56:03,786 - DEBUG - Add New Step button created
+2024-11-05 00:56:03,787 - DEBUG - Step list created
+2024-11-05 00:56:03,787 - DEBUG - Save button created
+2024-11-05 00:56:03,788 - DEBUG - Save and Run button created
+2024-11-05 00:56:05,233 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:56:05,233 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 00:56:32,159 - DEBUG - Starting application
+2024-11-05 00:56:32,285 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:56:32,286 - DEBUG - Window title set
+2024-11-05 00:56:32,286 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:56:32,286 - DEBUG - Creating widgets
+2024-11-05 00:56:32,288 - DEBUG - Operation dropdown created
+2024-11-05 00:56:32,289 - DEBUG - Snap Location button created
+2024-11-05 00:56:32,289 - DEBUG - Image Name entry created
+2024-11-05 00:56:32,289 - DEBUG - Text entry created
+2024-11-05 00:56:32,289 - DEBUG - Add New Step button created
+2024-11-05 00:56:32,290 - DEBUG - Step list created
+2024-11-05 00:56:32,290 - DEBUG - Save button created
+2024-11-05 00:56:32,290 - DEBUG - Save and Run button created
+2024-11-05 00:56:33,665 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:56:33,665 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 00:57:56,626 - DEBUG - Starting application
+2024-11-05 00:57:56,761 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:57:56,762 - DEBUG - Window title set
+2024-11-05 00:57:56,762 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:57:56,762 - DEBUG - Creating widgets
+2024-11-05 00:57:56,765 - DEBUG - Operation dropdown created
+2024-11-05 00:57:56,765 - DEBUG - Snap Location button created
+2024-11-05 00:57:56,765 - DEBUG - Image Name entry created
+2024-11-05 00:57:56,765 - DEBUG - Text entry created
+2024-11-05 00:57:56,765 - DEBUG - Add New Step button created
+2024-11-05 00:57:56,766 - DEBUG - Step list created
+2024-11-05 00:57:56,767 - DEBUG - Save button created
+2024-11-05 00:57:56,767 - DEBUG - Save and Run button created
+2024-11-05 00:57:58,130 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:57:58,130 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 00:59:19,368 - DEBUG - Starting application
+2024-11-05 00:59:19,502 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:59:19,503 - DEBUG - Window title set
+2024-11-05 00:59:19,503 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:59:19,503 - DEBUG - Creating widgets
+2024-11-05 00:59:19,505 - DEBUG - Operation dropdown created
+2024-11-05 00:59:19,506 - DEBUG - Snap Location button created
+2024-11-05 00:59:19,506 - DEBUG - Image Name entry created
+2024-11-05 00:59:19,506 - DEBUG - Text entry created
+2024-11-05 00:59:19,506 - DEBUG - Add New Step button created
+2024-11-05 00:59:19,507 - DEBUG - Step list created
+2024-11-05 00:59:19,507 - DEBUG - Save button created
+2024-11-05 00:59:19,507 - DEBUG - Save and Run button created
+2024-11-05 00:59:20,772 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:59:20,772 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 00:59:43,906 - DEBUG - Starting application
+2024-11-05 00:59:44,037 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 00:59:44,038 - DEBUG - Window title set
+2024-11-05 00:59:44,038 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 00:59:44,038 - DEBUG - Creating widgets
+2024-11-05 00:59:44,040 - DEBUG - Operation dropdown created
+2024-11-05 00:59:44,040 - DEBUG - Snap Location button created
+2024-11-05 00:59:44,041 - DEBUG - Image Name entry created
+2024-11-05 00:59:44,041 - DEBUG - Text entry created
+2024-11-05 00:59:44,041 - DEBUG - Add New Step button created
+2024-11-05 00:59:44,042 - DEBUG - Step list created
+2024-11-05 00:59:44,042 - DEBUG - Save button created
+2024-11-05 00:59:44,042 - DEBUG - Save and Run button created
+2024-11-05 00:59:45,266 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 00:59:45,267 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 01:00:25,846 - DEBUG - Starting application
+2024-11-05 01:00:25,985 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 01:00:25,985 - DEBUG - Window title set
+2024-11-05 01:00:25,986 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 01:00:25,986 - DEBUG - Creating widgets
+2024-11-05 01:00:25,988 - DEBUG - Operation dropdown created
+2024-11-05 01:00:25,988 - DEBUG - Snap Location button created
+2024-11-05 01:00:25,989 - DEBUG - Image Name entry created
+2024-11-05 01:00:25,989 - DEBUG - Text entry created
+2024-11-05 01:00:25,989 - DEBUG - Add New Step button created
+2024-11-05 01:00:25,990 - DEBUG - Step list created
+2024-11-05 01:00:25,990 - DEBUG - Save button created
+2024-11-05 01:00:25,990 - DEBUG - Save and Run button created
+2024-11-05 01:00:27,656 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 01:00:27,656 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 13:06:28,764 - DEBUG - Starting application
+2024-11-05 13:06:28,999 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 13:06:28,999 - DEBUG - Window title set
+2024-11-05 13:06:28,999 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 13:06:28,999 - DEBUG - Creating widgets
+2024-11-05 13:06:29,006 - DEBUG - Operation dropdown created
+2024-11-05 13:06:29,006 - DEBUG - Snap Location button created
+2024-11-05 13:06:29,006 - DEBUG - Image Name entry created
+2024-11-05 13:06:29,006 - DEBUG - Text entry created
+2024-11-05 13:06:29,006 - DEBUG - Add New Step button created
+2024-11-05 13:06:29,008 - DEBUG - Step list created
+2024-11-05 13:06:29,008 - DEBUG - Save button created
+2024-11-05 13:06:29,008 - DEBUG - Save and Run button created
+2024-11-05 13:06:45,649 - DEBUG - Capturing screenshot from clipboard
+2024-11-05 13:06:45,649 - DEBUG - Sending keyboard combination COMMAND+CONTROL+SHIFT+4 using AppleScript
+2024-11-05 13:06:54,310 - DEBUG - Starting application
+2024-11-05 13:06:54,449 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 13:06:54,449 - DEBUG - Window title set
+2024-11-05 13:06:54,449 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 13:06:54,449 - DEBUG - Creating widgets
+2024-11-05 13:06:54,452 - DEBUG - Operation dropdown created
+2024-11-05 13:06:54,452 - DEBUG - Snap Location button created
+2024-11-05 13:06:54,452 - DEBUG - Image Name entry created
+2024-11-05 13:06:54,452 - DEBUG - Text entry created
+2024-11-05 13:06:54,453 - DEBUG - Add New Step button created
+2024-11-05 13:06:54,454 - DEBUG - Step list created
+2024-11-05 13:06:54,454 - DEBUG - Save button created
+2024-11-05 13:06:54,454 - DEBUG - Save and Run button created
+2024-11-05 13:06:58,906 - DEBUG - Adding new step
+2024-11-05 13:07:00,908 - WARNING - No screenshot captured
+2024-11-05 13:07:05,394 - DEBUG - Adding new step
+2024-11-05 13:07:06,844 - WARNING - No screenshot captured
+2024-11-05 13:07:15,607 - DEBUG - Application closed
+2024-11-05 13:08:29,815 - DEBUG - Starting application
+2024-11-05 13:08:29,966 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 13:08:29,967 - DEBUG - Window title set
+2024-11-05 13:08:29,967 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 13:08:29,967 - DEBUG - Creating widgets
+2024-11-05 13:08:29,969 - DEBUG - Operation dropdown created
+2024-11-05 13:08:29,969 - DEBUG - Snap Location button created
+2024-11-05 13:08:29,970 - DEBUG - Image Name entry created
+2024-11-05 13:08:29,970 - DEBUG - Text entry created
+2024-11-05 13:08:29,970 - DEBUG - Add New Step button created
+2024-11-05 13:08:29,971 - DEBUG - Step list created
+2024-11-05 13:08:29,971 - DEBUG - Save button created
+2024-11-05 13:08:29,971 - DEBUG - Save and Run button created
+2024-11-05 13:10:36,328 - DEBUG - Starting application
+2024-11-05 13:10:36,447 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 13:10:36,447 - DEBUG - Window title set
+2024-11-05 13:10:36,447 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 13:10:36,447 - DEBUG - Creating widgets
+2024-11-05 13:10:36,449 - DEBUG - Operation dropdown created
+2024-11-05 13:10:36,450 - DEBUG - Snap Location button created
+2024-11-05 13:10:36,450 - DEBUG - Image Name entry created
+2024-11-05 13:10:36,450 - DEBUG - Text entry created
+2024-11-05 13:10:36,450 - DEBUG - Add New Step button created
+2024-11-05 13:10:36,451 - DEBUG - Step list created
+2024-11-05 13:10:36,451 - DEBUG - Save button created
+2024-11-05 13:10:36,451 - DEBUG - Save and Run button created
+2024-11-05 15:40:12,161 - DEBUG - Starting application
+2024-11-05 15:40:12,453 - DEBUG - Initializing CodelessAutomationApp
+2024-11-05 15:40:12,453 - DEBUG - Window title set
+2024-11-05 15:40:12,453 - DEBUG - Operations list initialized: ['Locate and Click', 'Locate and Right Click', 'Wait For Seconds', 'Click On Coordinates In UI', 'Write On UI', 'Write File Path', 'Zoom In UI', 'Zoom Out UI', 'Scroll Up UI', 'Scroll Down UI', 'Open Folder In Explorer', 'Pressed Key', 'Released Key', 'Take Screenshot', 'Open Application', 'Close Application', 'Wait for Image', 'Double Click', 'Drag and Drop', 'Hover Over Element']
+2024-11-05 15:40:12,453 - DEBUG - Creating widgets
+2024-11-05 15:40:12,456 - DEBUG - Operation dropdown created
+2024-11-05 15:40:12,456 - DEBUG - Snap Coordinates button created
+2024-11-05 15:40:12,457 - DEBUG - Image Name entry created
+2024-11-05 15:40:12,457 - DEBUG - Text entry created
+2024-11-05 15:40:12,457 - DEBUG - Add New Step button created
+2024-11-05 15:40:12,459 - DEBUG - Step list created
+2024-11-05 15:41:07,412 - DEBUG - Starting application
+2024-11-05 15:41:07,674 - DEBUG - Creating widgets
+2024-11-05 15:59:10,995 - DEBUG - Starting application
+2024-11-05 15:59:11,203 - DEBUG - Creating widgets
+2024-11-05 15:59:11,206 - DEBUG - Operation dropdown created
+2024-11-05 15:59:11,206 - DEBUG - Snap Coordinates button created
+2024-11-05 15:59:11,206 - DEBUG - Image Name entry created
+2024-11-05 15:59:11,206 - DEBUG - Text entry created
+2024-11-05 15:59:11,207 - DEBUG - Add New Step button created
+2024-11-05 15:59:11,209 - DEBUG - Step list created
+2024-11-05 16:00:21,904 - DEBUG - Starting application
+2024-11-05 16:00:22,063 - DEBUG - Creating widgets
+2024-11-05 16:02:18,915 - DEBUG - Starting application
+2024-11-05 16:02:19,122 - DEBUG - Creating widgets
+2024-11-05 16:02:19,125 - DEBUG - Operation dropdown created
+2024-11-05 16:02:19,125 - DEBUG - Snap Coordinates button created
+2024-11-05 16:02:19,126 - DEBUG - Image Name entry created
+2024-11-05 16:02:19,126 - DEBUG - Text entry created
+2024-11-05 16:02:19,126 - DEBUG - Add New Step button created
+2024-11-05 16:02:19,128 - DEBUG - Step list created
+2024-11-05 16:02:19,128 - DEBUG - Save button created
+2024-11-05 16:02:32,370 - DEBUG - Starting application
+2024-11-05 16:02:32,504 - DEBUG - Creating widgets
+2024-11-05 16:02:32,506 - DEBUG - Operation dropdown created
+2024-11-05 16:02:32,506 - DEBUG - Snap Coordinates button created
+2024-11-05 16:02:32,507 - DEBUG - Image Name entry created
+2024-11-05 16:02:32,507 - DEBUG - Text entry created
+2024-11-05 16:02:32,507 - DEBUG - Add New Step button created
+2024-11-05 16:02:32,508 - DEBUG - Step list created
+2024-11-05 16:02:32,508 - DEBUG - Save button created
+2024-11-05 16:03:28,918 - DEBUG - Starting application
+2024-11-05 16:03:29,045 - DEBUG - Creating widgets
+2024-11-05 16:03:29,047 - DEBUG - Operation dropdown created
+2024-11-05 16:03:29,048 - DEBUG - Snap Coordinates button created
+2024-11-05 16:03:29,048 - DEBUG - Image Name entry created
+2024-11-05 16:03:29,048 - DEBUG - Text entry created
+2024-11-05 16:03:29,048 - DEBUG - Add New Step button created
+2024-11-05 16:03:29,049 - DEBUG - Step list created
+2024-11-05 16:03:29,050 - DEBUG - Save button created
+2024-11-05 22:38:29,078 - DEBUG - Starting application
+2024-11-05 22:38:29,233 - DEBUG - Creating widgets
+2024-11-05 22:38:29,239 - DEBUG - Operation dropdown created
+2024-11-05 22:38:29,239 - DEBUG - Snap Coordinates button created
+2024-11-05 22:38:29,240 - DEBUG - Image Name entry created
+2024-11-05 22:38:29,240 - DEBUG - Text entry created
+2024-11-05 22:38:29,240 - DEBUG - Add New Step button created
+2024-11-05 22:38:29,243 - DEBUG - Step list created
+2024-11-05 22:38:29,243 - DEBUG - Save button created
+2024-11-05 22:38:29,243 - DEBUG - Save and Run button created
+2024-11-05 22:38:33,616 - DEBUG - Time entry field displayed.
+2024-11-05 22:38:35,062 - DEBUG - Text entry field displayed.
+2024-11-05 22:38:36,257 - DEBUG - Snippet entry field displayed.
+2024-11-05 22:38:36,929 - DEBUG - Adding new step
+2024-11-05 22:38:38,324 - WARNING - No screenshot captured
